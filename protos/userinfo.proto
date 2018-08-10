@@ -1,0 +1,22 @@
+
+syntax = "proto3";
+
+package userinfo;
+
+// The SendMessage service definition.
+service SendMessage {
+  // Sends a user into
+  rpc sendMessage (UserRequest) returns (UserReply) {}
+}
+
+// The request message containing the user's name.
+message UserRequest {
+  string account = 1;
+  string password = 2;
+  int32 operate = 3;
+}
+
+// The response operate flag
+message UserReply {
+  int32 flag = 1;
+}

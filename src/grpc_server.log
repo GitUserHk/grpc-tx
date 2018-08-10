@@ -1,0 +1,27 @@
+2018-08-09 19:30:31,232 [INFO] read config file
+2018-08-09 19:30:31,232 [INFO] Run server ...
+2018-08-09 19:30:31,241 [INFO] Server listening on 192.168.1.241:8080
+2018-08-09 19:30:49,909 [INFO] account : name
+2018-08-09 19:30:49,909 [INFO] password : pass
+2018-08-10 10:43:19,451 [INFO] read config file
+2018-08-10 10:43:19,452 [INFO] Run server ...
+2018-08-10 10:43:19,452 [INFO] redis Connect success
+2018-08-10 10:43:19,455 [INFO] Server listening on 192.168.1.241:8080
+2018-08-10 10:43:29,848 [INFO] account : hh
+2018-08-10 10:43:29,849 [INFO] password : 1234214
+2018-08-10 10:43:29,849 [INFO] get value 123
+2018-08-10 10:43:29,849 [INFO] t_value 123
+2018-08-10 10:43:42,293 [INFO] account : hh
+2018-08-10 10:43:42,293 [INFO] password : 123
+2018-08-10 10:43:42,294 [INFO] get value 123
+2018-08-10 10:43:42,294 [INFO] t_value 123
+2018-08-10 10:43:42,294 [INFO] flag 0
+2018-08-10 10:43:52,603 [INFO] account : kk
+2018-08-10 10:43:52,603 [INFO] password : 123
+2018-08-10 10:43:52,604 [INFO] set date SET kk 123
+2018-08-10 10:43:58,750 [INFO] account : kk
+2018-08-10 10:43:58,750 [INFO] password : 123
+2018-08-10 10:43:58,750 [INFO] map password 123
+2018-08-10 10:44:05,690 [INFO] account : kk
+2018-08-10 10:44:05,690 [INFO] password : 123
+2018-08-10 10:44:05,690 [INFO] map password 123
